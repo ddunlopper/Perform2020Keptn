@@ -8,7 +8,7 @@ spec:
   - public-gateway.istio-system
   - mesh
   hosts:
-  - simplenode.simpleproject-staging.34.94.179.156.xip.io
+  - simplenode.simpleproject-staging.agrimmer.keptn.sh
   - simplenode
   http:
   - route:
